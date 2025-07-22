@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Ankit Kumar - ankitmrj@example.com
+Ankit Srivastav - ankitsrivastav.resume@gmail.com
 
 Project Link: [https://github.com/ankitmrj/FairRecAi](https://github.com/ankitmrj/FairRecAi)
 
